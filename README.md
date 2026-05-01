@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rachel Sady
 
-I’m an aspiring **SOC Analyst / Incident Support Analyst** with a background in **healthcare, regulated environments, and customer-facing incident communication**. I’m transitioning into cybersecurity with a focus on **identity compromise, phishing response, incident documentation, and SOC operations**.
+Transitioning into cybersecurity with a focus on governance, risk, compliance, and fraud investigations. Interested in identifying control gaps, analyzing risk, and supporting secure, accountable business operations.
 
 My experience in healthcare taught me how to remain calm during high-pressure situations, protect sensitive data, and clearly communicate risk and next steps to non-technical stakeholders—skills I now apply to cybersecurity incident response.
 
@@ -8,11 +8,12 @@ My experience in healthcare taught me how to remain calm during high-pressure si
 
 ## 🔐 Areas of Interest
 
-* Security Operations Center (SOC) workflows
-* Identity compromise & phishing investigations
+* Governance, Risk, and Compliance (GRC)
+* Security Policies & Regulatory Compliance (HIPAA, SOC 2)
 * Incident response & escalation procedures
-* Endpoint and user activity analysis
+* Risk Assessment & Control Evaluation
 * Healthcare security & compliance (HIPAA)
+* Financial Risk & Data Protection
 
 ---
 
