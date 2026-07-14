@@ -1,8 +1,13 @@
 # 👋 Hi, I’m Rachel Sady
 
-Transitioning into cybersecurity with a focus on governance, risk, compliance, and fraud investigations. Interested in identifying control gaps, analyzing risk, and supporting secure, accountable business operations.
+Transitioning into cybersecurity with a focus on Governance, Risk, Compliance (GRC), and fraud/risk investigations. I am interested in identifying control gaps, analyzing risk, strengthening processes, and supporting secure, accountable business operations.
 
-My experience in healthcare taught me how to remain calm during high-pressure situations, protect sensitive data, and clearly communicate risk and next steps to non-technical stakeholders—skills I now apply to cybersecurity incident response.
+My background in healthcare has given me experience working in regulated environments where protecting sensitive information, maintaining compliance, documenting processes, and communicating risk clearly are essential. I have developed the ability to identify inconsistencies, evaluate situations under pressure, and communicate solutions to both technical and non-technical stakeholders.
+
+I am bringing that same risk-focused mindset into cybersecurity through hands-on projects, security training, and continued development in areas including security controls, privacy, threat awareness, and governance frameworks.
+
+My goal is to help organizations reduce risk by connecting security practices with real-world business and operational needs.
+
 
 ---
 
